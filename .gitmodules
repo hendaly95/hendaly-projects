@@ -1,0 +1,15 @@
+[submodule "AI and Big Data/glucose-timeseries-ai"]
+	path = AI and Big Data/glucose-timeseries-ai
+	url = https://github.com/hendaly95/glucose-timeseries-ai
+[submodule "AI and Big Data/meal-detection-glucose-ml"]
+	path = AI and Big Data/meal-detection-glucose-ml
+	url = https://github.com/hendaly95/meal-detection-glucose-ml
+[submodule "AI and Big Data/meal-detection-cluster-validation"]
+	path = AI and Big Data/meal-detection-cluster-validation
+	url = https://github.com/hendaly95/meal-detection-cluster-validation
+[submodule "AI and Big Data/naive-bayes-digit-classifier"]
+	path = AI and Big Data/naive-bayes-digit-classifier
+	url = https://github.com/hendaly95/naive-bayes-digit-classifier
+[submodule "AI and Big Data/kmeans-clustering-strategy"]
+	path = AI and Big Data/kmeans-clustering-strategy
+	url = https://github.com/hendaly95/kmeans-clustering-strategy
